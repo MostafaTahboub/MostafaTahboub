@@ -1,12 +1,18 @@
-### Hi there 👋
+## Hi there! 👋 I'm Mostafa Tahboub
 
+🚀 Software Engineer | NodeJS backend web developer 
 
-- 🔭 I’m currently study computer syestems engineering in palestine polytechnic university in 7'th semester 
-- 🌱 I’m currently learning a backend web development and a deployment with AWS cloud 
-- 👯 I’m looking to collaborate on developing websites with nodejs and express js framework 
-- 🤔 I’m looking for being a profecient with javaScript .
-- 📫 You can reach me :
-   - Gmail: mostafatahboub22@gmail.com  
-   - [LinkedIn](https://www.linkedin.com/in/mostafaatahboub/)
-   - Phone : +970 0598701861
+I'm passionate about crafting clean, efficient code that brings ideas to life. With a background in Web development , I thrive in . My curiosity drives me to continuously explore new horizons in tech.
+
+🔭 Currently working on: Backend Web Project
+
+🌱 Learning: Database ,Deployment,AWS .
+
+💬 Ask me about: Development and Deployment of Web Applications.
+
+📫 How to reach me:
+- [gmail](mostafatahboub22@gmail.com)
+- [linkedin](https://www.linkedin.com/in/mostafaatahboub/)
+
+Connect with me and let's collaborate on building innovative solutions!
   
