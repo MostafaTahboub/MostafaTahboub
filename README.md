@@ -7,6 +7,6 @@
 - 🤔 I’m looking for being a profecient with javaScript .
 - 📫 You can reach me :
    - Gmail: mostafatahboub22@gmail.com  
-   - [LinkedIn](https://www.linkedin.com/in/mustafa-tahboub-38b672271/)
+   - [LinkedIn](https://www.linkedin.com/in/mostafaatahboub/)
    - Phone : +970 0598701861
   
