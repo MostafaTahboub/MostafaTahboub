@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Mostafa Tahboub
 
-🚀 Software Engineer | NodeJS backend web developer 
+🚀 Software Engineer | Node.js backend developer 
 
 I'm passionate about crafting clean, efficient code that brings ideas to life. With a background in Web development , I thrive in . My curiosity drives me to continuously explore new horizons in tech.
 
